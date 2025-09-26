@@ -1,0 +1,2 @@
+# S-Domini
+Script Termux
